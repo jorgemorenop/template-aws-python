@@ -1,0 +1,2 @@
+-e functions/my_function
+-e local
